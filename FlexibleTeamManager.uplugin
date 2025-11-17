@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "FlexibleTeamManager",
+	"Description": "",
+	"Category": "Gameplay",
+	"CreatedBy": "EugeneSlerp",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "FlexibleTeamManager",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
